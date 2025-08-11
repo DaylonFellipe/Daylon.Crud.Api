@@ -2,14 +2,12 @@
 
 <h2 align="center">🖱 CRUD API</h2>
  
-- 📋 Resumo
-Esse é um projetinho de API CRUD feita com .NET.
- Ela faz o básico: criar, listar, atualizar e excluir informações usando endpoints REST.
- A ideia aqui é ter um exemplo simples e fácil de entender, bom pra estudar e servir de base para outros projetos.
+## 📋 Summary
+This is a small CRUD API project built with .NET.  
+It performs the basics: create, list, update, and delete information using REST endpoints.  
+The idea here is to have a simple and easy-to-understand example, great for learning and serving as a base for other projects.
 
----
-
-🛠 Tecnologias
+## 🛠 Technologies
 - .NET
 - ASP.NET Core Web API
 - Entity Framework Core
@@ -17,14 +15,25 @@ Esse é um projetinho de API CRUD feita com .NET.
 - Swagger
 - FluentValidation
 
+## ✨ What You Can Do
+
+- Create new records
+- List all
+- Search by ID
+- Edit records
+- Partial updates
+- Delete records
+
 ---
 
-✨ O que dá pra fazer
+<img width="750" height="700" alt="image" src="https://github.com/user-attachments/assets/f05b3acf-b7de-4b67-a691-eb6362a2b71d" />
+<img width="750" height="700" alt="image" src="https://github.com/user-attachments/assets/55da629c-f668-4d13-842a-e8016de82c76" />
+<img width="750" height="700" alt="image" src="https://github.com/user-attachments/assets/964d58f7-b92c-4c8d-810d-e11a02f48ef2" />
+<img width="750" height="700" alt="image" src="https://github.com/user-attachments/assets/bfc07448-8502-4524-82f8-668eab2e95ef" />
 
-- Criar novos registros
-- Listar todos
-- Buscarpelo ID
-- Editar registros
-- Edição parcial
-- Apagar registros
+Thanks...
+
+
+
+
 
